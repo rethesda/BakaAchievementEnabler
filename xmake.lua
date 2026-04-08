@@ -3,7 +3,7 @@ includes("lib/commonlibsf")
 
 -- set project constants
 set_project("BakaAchievementEnabler")
-set_version("6.0.0")
+set_version("7.0.0")
 set_license("GPL-3.0")
 set_languages("c++23")
 set_warnings("allextra")
